@@ -1,0 +1,1 @@
+import{d as t}from"./index-D1yv3y5u.js";const p={getAnalytics:()=>t.get("pilgrims/analytics"),importCsv:async r=>{const i=new FormData;return i.append("file",r),t.post("pilgrims/import",i)}};export{p};

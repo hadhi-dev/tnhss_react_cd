@@ -1,0 +1,3 @@
+// Place this file in public/notification.mp3
+// You can use a beautiful adhan or chime sound. Example: https://cdn.pixabay.com/audio/2022/07/26/audio_124bfae5e2.mp3
+// Download and rename as notification.mp3 for best experience.

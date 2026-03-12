@@ -1,0 +1,1 @@
+import{j as s}from"./vendor-ui-B2jkoGl9.js";import"./vendor-react-Cc-oBOCu.js";const e=()=>s.jsx("div",{className:"p-6",children:s.jsx("h1",{className:"text-2xl font-bold text-gray-900",children:"Pilgrims"})});export{e as default};

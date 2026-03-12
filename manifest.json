@@ -1,10 +1,10 @@
 {
-  "short_name": "Ramzania",
-  "name": "Ramzania",
-  "description": "Chennai's Hub for Sehar, Iftar, Duas & Events. Built for bachelors and the community.",
+  "short_name": "TNHSS",
+  "name": "TNHSS",
+  "description": "Official app of Tamilnadu Haj Service Society (Tamilnadu Baittul Hujjaj). Haj 2026 - Khadimunal Hujjaj District Coordinators.",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#059669",
+  "theme_color": "#0e5624",
   "background_color": "#ffffff",
   "icons": [
     {

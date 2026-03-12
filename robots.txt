@@ -3,4 +3,4 @@ Allow: /
 Disallow: /dashboard/
 Disallow: /auth/
 
-Sitemap: https://ramzania.com/sitemap.xml
+Sitemap: https://tnhss.online/sitemap.xml

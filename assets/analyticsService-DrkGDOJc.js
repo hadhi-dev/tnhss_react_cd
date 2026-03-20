@@ -1,0 +1,1 @@
+import{d as e}from"./index-B0Vrbrz3.js";const l={trackHajLabel(c,a=null){const t={event_type:c};a&&(t.cover_id=a),e.post("haj/analytics",t,{auth:!1}).catch(()=>{})},getHajLabelAnalytics:()=>e.get("haj/analytics")};export{l as a};
